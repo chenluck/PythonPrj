@@ -1,3 +1,5 @@
+'''version 1.0 test'''
+
 '''class Student:
       __name=""
       def __init__(self,name):
